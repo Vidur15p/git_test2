@@ -1,6 +1,6 @@
 # git_test2
 Test
-Hello Odin!
+Hello!
 THis is just a test
 Random
 things
